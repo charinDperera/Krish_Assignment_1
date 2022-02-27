@@ -1,4 +1,5 @@
-import B.*;
+package Assignment;
+
 import java.util.*;
 
 public class application{

@@ -1,4 +1,4 @@
-import A.*;
+package Assignment;
 
 public class B extends A{
 	public B(){}
