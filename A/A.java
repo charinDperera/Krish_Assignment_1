@@ -1,5 +1,3 @@
-package Assignment;
-
 public class A{
 	public A (){}
 
